@@ -1,4 +1,19 @@
-#profile {
-    margin: 10px;
-    float: left
+body {
+    font-family: Calibri, serif;
+}
+
+header {
+    background-color: antiquewhite;
+}
+
+.content {
+    background-color: aliceblue;
+}
+
+.contact {
+    display: block;
+}
+
+footer {
+    background-color: burlywood;
 }
