@@ -10,8 +10,33 @@ header {
     background-color: aliceblue;
 }
 
-.contact {
+input,
+textarea {
     display: block;
+    margin: 5px;
+    width: 300px;
+    font-family: Arial, serif;
+    font-size: 14px;
+    padding: 1px;
+    border: 1px solid darkgray;
+}
+
+label {
+    display: block;
+    margin: 5px;
+    width: 300px;
+    font-family: Arial, serif;
+    font-size: 14px;
+    padding: 1px;
+}
+
+button {
+    margin: 5px;
+    width: 304px;
+    font-family: Arial, serif;
+    font-size: 14px;
+    padding: 1px;
+    border: 1px solid darkgray;
 }
 
 footer {
